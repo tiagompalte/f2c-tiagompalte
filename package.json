@@ -1,0 +1,23 @@
+{
+  "name": "f2c-tiagompalte",
+  "version": "1.0.0",
+  "description": "Conversão de temperaturas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagompalte/f2c-tiagompalte.git"
+  },
+  "keywords": [
+    "fahrenheit",
+    "celsius"
+  ],
+  "author": "Tiago Palte <tiagompalte@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagompalte/f2c-tiagompalte/issues"
+  },
+  "homepage": "https://github.com/tiagompalte/f2c-tiagompalte#readme"
+}
