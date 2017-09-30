@@ -1,3 +1,4 @@
+'use strict'
 //index.js
 module.exports = function(tempF) {
 	if(typeof tempF === 'string') {
